@@ -1,6 +1,6 @@
-package ChallengeTwoSayHello.test;
+package java.test;
 
-import ChallengeTwoSayHello.SayHello;
+import java.ChallengeTwoSayHello.SayHello;
 import org.junit.jupiter.api.Assertions;
 
 class SayHelloTest {

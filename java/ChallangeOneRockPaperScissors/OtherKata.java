@@ -1,4 +1,4 @@
-package ChallangeOneRockPaperScissors;
+package java.ChallangeOneRockPaperScissors;
 
 public class OtherKata {
     public static final String PAPER = "paper";

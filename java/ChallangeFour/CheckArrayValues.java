@@ -1,7 +1,6 @@
-package ChallangeFour;
+package java.ChallangeFour;
 
 import java.util.Arrays;
-import java.util.List;
 
 public class CheckArrayValues {
     public static int countSheeps(Boolean[] arrayOfSheeps) {
@@ -17,9 +16,6 @@ public class CheckArrayValues {
     }
 
     public static int countSheepWithStreams(Boolean[] arrayOfSheeps) {
-        /*return (int) Arrays.stream(arrayOfSheeps)
-                .filter(val -> val != null && val == true)
-                .count();*/
         return (int) Arrays.stream(arrayOfSheeps).filter(val -> val != null && val == true).count();
 
     }

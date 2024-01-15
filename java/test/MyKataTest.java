@@ -1,7 +1,7 @@
-package ChallangeOneRockPaperScissors.test;
+package java.test;
 
-import ChallangeOneRockPaperScissors.MyKata;
-import ChallangeOneRockPaperScissors.OtherKata;
+import java.ChallangeOneRockPaperScissors.MyKata;
+import java.ChallangeOneRockPaperScissors.OtherKata;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

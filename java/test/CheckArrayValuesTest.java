@@ -1,6 +1,9 @@
-package ChallangeFour;
+package java.test;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import java.ChallangeFour.CheckArrayValues;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -13,7 +16,7 @@ class CheckArrayValuesTest {
     };
     @Test
     void countSheeps() {
-        assertEquals(8, CheckArrayValues.countSheeps(arrayBo));
+        Assertions.assertEquals(8, CheckArrayValues.countSheeps(arrayBo));
         assertNotEquals(0, CheckArrayValues.countSheepWithStreams(arrayBo));
 
     }

@@ -1,6 +1,9 @@
-package ChallangeFour;
+package java.test;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import java.ChallangeFour.CheckArrayValuesNextLevelSolutions;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -13,7 +16,7 @@ class CheckArrayValuesNextLevelSolutionsTest {
     };
     @Test
     void countTrueValuesInArray(){
-        assertEquals(8, CheckArrayValuesNextLevelSolutions.countTrueValuesInArray(arrayBo));
+        Assertions.assertEquals(8, CheckArrayValuesNextLevelSolutions.countTrueValuesInArray(arrayBo));
         assertNotEquals(8, CheckArrayValuesNextLevelSolutions.countTrueValuesInArray(arrayBo)+1);
     }
     @Test

@@ -1,5 +1,5 @@
 /*
-package toArray;
+package java.toArray;
 
 public class ConvertNumbersToArray {
     public static int[] digitize(long n) {

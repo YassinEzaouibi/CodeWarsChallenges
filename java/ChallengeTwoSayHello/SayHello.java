@@ -1,4 +1,4 @@
-package ChallengeTwoSayHello;
+package java.ChallengeTwoSayHello;
 
 public class SayHello {
     public static String sayHello(String [] name, String city, String state){
