@@ -1,9 +1,8 @@
-package java.test;
+package codeworschallenges.test;
 
+import codeworschallenges.ChallangeFour.CheckArrayValues;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import java.ChallangeFour.CheckArrayValues;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,4 +1,4 @@
-package java.ChallangeOneRockPaperScissors;
+package codeworschallenges.ChallangeOneRockPaperScissors;
 
 public class OtherKata {
     public static final String PAPER = "paper";

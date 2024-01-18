@@ -1,4 +1,4 @@
-package java.ChallangeFour;
+package codeworschallenges.ChallangeFour;
 
 import java.util.Arrays;
 

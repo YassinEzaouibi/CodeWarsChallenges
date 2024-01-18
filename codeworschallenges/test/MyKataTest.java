@@ -1,7 +1,7 @@
-package java.test;
+package codeworschallenges.test;
 
-import java.ChallangeOneRockPaperScissors.MyKata;
-import java.ChallangeOneRockPaperScissors.OtherKata;
+import codeworschallenges.ChallangeOneRockPaperScissors.MyKata;
+import codeworschallenges.ChallangeOneRockPaperScissors.OtherKata;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
