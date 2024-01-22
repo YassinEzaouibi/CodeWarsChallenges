@@ -1,6 +1,6 @@
 package codeworschallenges.test;
 
-import codeworschallenges.ChallengeTwoSayHello.SayHello;
+import codeworschallenges.challenge_two_say_hello.SayHello;
 import org.junit.jupiter.api.Assertions;
 
 class SayHelloTest {

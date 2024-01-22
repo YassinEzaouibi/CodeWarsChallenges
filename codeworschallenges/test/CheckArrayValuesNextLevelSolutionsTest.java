@@ -3,7 +3,7 @@ package codeworschallenges.test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import codeworschallenges.ChallangeFour.CheckArrayValuesNextLevelSolutions;
+import codeworschallenges.challange_four.CheckArrayValuesNextLevelSolutions;
 
 import static org.junit.jupiter.api.Assertions.*;
 

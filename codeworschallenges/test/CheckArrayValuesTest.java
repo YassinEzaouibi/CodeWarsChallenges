@@ -1,6 +1,6 @@
 package codeworschallenges.test;
 
-import codeworschallenges.ChallangeFour.CheckArrayValues;
+import codeworschallenges.challange_four.CheckArrayValues;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
